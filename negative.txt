@@ -5,13 +5,11 @@ acak-acakan
 acuh
 acuh tak acuh
 adiktif
-adil
 agresi
 agresif
 agresor
 aib
 air terjun
-akurat
 alarm
 alasan
 alat permainan
@@ -115,7 +113,6 @@ beracun
 beradab
 berakhir
 berang
-berani
 berantakan
 berat
 berat sebelah
@@ -150,7 +147,6 @@ berduka
 berduri
 berdusta
 berebut
-bergairah
 bergegas
 bergelombang
 bergeming
@@ -164,7 +160,6 @@ berhaluan kiri
 berisiko
 berita palsu
 berjangkit
-berjuang
 berkarat
 berkata tanpa berpikir
 berkedip
@@ -176,7 +171,6 @@ berkeringat
 berkerut
 berkhayal
 berkilat
-berkilau
 berkolusi
 berkonflik
 berkubang
@@ -210,7 +204,6 @@ bersedih
 bersekongkol
 berselang
 berselisih
-bersemangat
 bersenandung
 berserakan
 bersetubuh
@@ -235,7 +228,7 @@ bikinan
 bimbang
 binasa
 bingung
-Bingung
+bingung
 bisa ular
 bising
 blunder
@@ -290,7 +283,6 @@ cenderung
 cengeng
 cengking
 cercaan
-cerdik
 cerewet
 ceroboh
 compang-camping
@@ -368,7 +360,6 @@ dilema
 dilenyapkan
 dimaafkan
 dimarahi
-dimengerti
 dingin
 diperangi
 diperkosa
@@ -383,7 +374,6 @@ disalahgunakan
 disalahpahami
 disayangkan
 disebut-sebut
-disederhanakan
 disengaja
 disengketakan
 disiram
@@ -424,7 +414,6 @@ egomania
 egosentris
 ejek
 ejekan
-ekonomis
 eksploitasi
 eksploitatif
 eksplosif
@@ -435,7 +424,6 @@ erosi
 fana
 fanatik
 fanatisme
-fantastis
 fasis
 fasisme
 fatal
@@ -485,8 +473,6 @@ gesekan
 gesper
 getah
 getaran
-giat
-gigih
 gigil
 gila
 gila hormat
@@ -522,7 +508,6 @@ hedon
 hedonistik
 hegemoni
 hegemonisme
-hemat
 hidung belang
 hina
 hingar-bingar
@@ -585,12 +570,10 @@ jatuh sakit
 jauh
 jebakan
 jelaga
-jelas
 jelatang
 jelek
 jelu
 jempol kebawah
-jenaka
 jengkel
 jerat
 jerawat
@@ -605,7 +588,6 @@ kacau
 kadaluarsa
 kadung
 kafir
-kagum
 kain kafan
 kaku
 kalah
@@ -634,14 +616,12 @@ keanehan
 keangkuhan
 kebal
 kebencian
-keberanian
 keberatan
 keberbahayaan
-kebetulan
 kebiadaban
 kebiasaan
 kebingungan
-KEBINGUNGAN
+kebingungan
 kebiri
 kebisingan
 kebobolan
@@ -748,7 +728,6 @@ kemalasan
 kemandekan
 kemarahan
 kemasukan setan
-kemasyhuran
 kematian
 kembali
 kemelaratan
@@ -788,7 +767,6 @@ kere
 kerepotan
 kereta
 keretakan
-keriangan
 keributan
 kerinduan
 kering
@@ -824,13 +802,11 @@ kesombongan
 kesulitan
 kesuraman
 kesyahidan
-ketabahan
 ketakberanian
 ketakutan
 ketamakan
 ketat
 ketegangan
-ketenangan
 keterbatasan
 keterbelakangan
 keterlaluan
@@ -889,7 +865,6 @@ khayalan
 khayalan belaka
 khayali
 khianat
-khusus
 kiamat
 kikir
 kikuk
@@ -937,12 +912,10 @@ kritik
 kritikus
 kritis
 kronis
-kuat
 kuatir
 kucam
 kucing gemuk
 kudung
-kukuh
 kuning
 kuno
 kupas
@@ -969,7 +942,6 @@ lama
 lamban
 lambat
 lancang
-lancar
 lapis kedua
 lapuk
 larangan
@@ -978,7 +950,6 @@ latency
 lawan
 lebam
 lebih buruk
-lebih keras
 lebih mahal
 lebihan
 lecet
@@ -1014,9 +985,7 @@ lintah
 lirik
 longgar
 luah
-luar biasa
 lubang angin
-lucu
 luka
 luka bakar
 luka lecet
@@ -1057,7 +1026,6 @@ mati lemas
 mati rasa
 mati-matian
 mau bertobat
-megah
 megap-megap
 melalaikan
 melambat
@@ -1185,7 +1153,6 @@ memperkosa
 memperlambat
 memperlemah
 mempersiapkan
-mempesona
 mempolemikkan
 memprihatinkan
 mempropagandakan
@@ -1264,8 +1231,6 @@ mengacak
 mengacaukan
 mengaku
 mengakui
-mengalah
-mengalahkan
 mengalihkan
 mengambil alih
 mengamputasi
@@ -1299,7 +1264,6 @@ mengerdilkan
 mengerikan
 mengering
 mengerjakan dengan kurang baik
-mengerti
 mengerut
 mengesalkan
 menggagalkan
@@ -1378,12 +1342,11 @@ menguasai
 mengumpat
 mengumumkan kekurangan
 mengundurkan diri
-menguntungkan
 mengurangi
 menguras
 mengusir
 mengutuk
-Mengutuk
+mengutuk
 meniadakan
 menidurkan
 menimbulkan
@@ -1393,7 +1356,6 @@ menindas
 meninggal
 meninggal dunia
 meninggalkan
-meningkat
 meninju
 menipu
 menitis
@@ -1413,7 +1375,6 @@ menjiplak tulisan
 menodai
 menohok
 menolak
-menonjol
 mentah
 menuduh
 menumbangkan
@@ -1440,11 +1401,9 @@ menyayangkan
 menyayat
 menyayat hati
 menyebalkan
-menyederhanakan
 menyedihkan
 menyelinap
 menyembunyikan
-menyenangkan
 menyengat
 menyentakkan
 menyerah
@@ -1479,7 +1438,6 @@ merajuk
 merampas
 merana
 merancang
-merangsang
 merasa jijik
 merata
 meratap
@@ -1493,7 +1451,6 @@ merencanakan
 merendahkan
 merendahkan martabat
 merengek
-merenung
 merepet
 meresahkan
 meretas
@@ -1509,7 +1466,6 @@ merusak akhlak
 merusak bentuk
 merusakkan
 mewah
-meyakinkan
 mimpi buruk
 miring
 misinformasi
@@ -1624,10 +1580,8 @@ parodi
 partisan
 pasif
 pasrah
-pasti
 patah
 patah hati
-patuh
 patung
 payudara
 pecah
@@ -1665,7 +1619,6 @@ pembantaian
 pembatalan
 pembaur
 pembekuan
-pembela
 pembenci
 pembengkakan
 pemberang
@@ -1802,7 +1755,6 @@ perebut
 perempuan jahanam
 perfidity
 pergolakan
-perhatian
 perih sekali
 peringatan
 perjuangan
@@ -1813,7 +1765,6 @@ perlu
 permohonan
 permusuhan
 perpecahan
-persahabatan
 persaingan
 perselisihan
 pertempuran
@@ -1855,7 +1806,6 @@ propaganda
 protes
 provokasi
 provokatif
-puas
 pucat
 pukulan
 punah
@@ -1870,7 +1820,6 @@ Radikal
 radikalisasi
 ragu
 ragu-ragu
-rajin
 raksasa
 ramai
 rambut rontok
@@ -1888,7 +1837,6 @@ rasa tidak enak
 rasis
 rasisme
 reaksioner
-realistis
 rebusan
 redundansi
 redup
@@ -1925,7 +1873,6 @@ rumor
 runtuh
 rusak
 rusuh
-sabar
 sabotase
 sakit
 sakit dirancang
@@ -1941,7 +1888,7 @@ sakit-penggunaan
 sakitan
 sakitnya tuh disini
 salah
-Salah
+salah
 salah baca
 salah hitung
 salah informasi
@@ -1964,8 +1911,6 @@ sambilan
 sampah
 sandal bakiak
 sandera
-sangat
-sangat efektif
 sangat jahat
 sangat lapar
 sangat marah
@@ -1980,11 +1925,9 @@ satiris
 sayangnya
 sebelum waktunya
 sedang saja
-sederhana
 sedih
 sedikit
 segan
-segera
 sejajar
 selai
 selang
@@ -2017,7 +1960,6 @@ serong
 sesat
 setan
 setengah hati
-setia
 sewenang-wenang
 shamefulness
 shamelessness
@@ -2146,14 +2088,12 @@ tegar
 teguran
 tekanan
 telanjang
-teliti
 tenggelam
 tenggelamnya
 tengkar
 teralihkan
 teramat
 teramati
-terampil
 terang-terangan
 terangsang
 terasa tidak enak
@@ -2167,7 +2107,6 @@ terbelakang
 terbodoh
 terbuang
 terbujuk
-terbukti
 terbunuh
 terburu nafsu
 terburuk
@@ -2192,12 +2131,10 @@ terinfeksi
 terinfestasi
 terjal
 terjangan
-terjangkau
 terjawab
 terjelek
 terkejut
 terkena
-terkenal
 terkenal jahat
 terkesima
 terkulai
@@ -2388,7 +2325,6 @@ umpatan
 untuk sementara
 usang
 usil
-utuh
 vagina
 virus
 volatil
